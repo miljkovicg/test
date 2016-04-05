@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 into their vast carelesness 
+=======
+vast carelesness
+jfeiojsac
+>>>>>>> 5afc64b1f587e5ca831eb3608f89c1c6fb1d2e09
